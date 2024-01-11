@@ -5,3 +5,7 @@ The world is full of problems. Pick one, and concentrate on it. Try to make a di
 My online home is [valera.rozuvan.net](https://valera.rozuvan.net/) - among other places.
 
 Just a humble reminder, remember to [Keep Stuff Simple](https://lets-be-simple.net/) (KISS principle).
+
+It's 2024 - and I am alive and kicking!
+Take a good look around, there is so-o-o much stuff to do and learn.
+On to code, then ;)
